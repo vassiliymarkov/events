@@ -97,7 +97,7 @@ CONTENTS
 }
 
 #greeting {
-    font-family: 'Alkatra', cursive;
+ /*   font-family: 'Alkatra', cursive;*/
     color: wheat;
     font-size: 70px;
     font-weight: 900;

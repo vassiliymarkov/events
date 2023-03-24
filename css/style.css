@@ -100,7 +100,6 @@ CONTENTS
     margin: 0 auto;
     color: white;
     font-size: 90px;
-    /*font-weight: 900;*/
     line-height: 1.2;
     z-index: 20;
     width: 100%;
@@ -120,6 +119,6 @@ CONTENTS
     opacity:0;
     }
     100% {
-    opacity:1;
+    opacity:0.6;
     }
     }
